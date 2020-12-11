@@ -7,6 +7,7 @@
 - [[Пример другой страницы]]
 - [[test]]
 - [[todo]]
+- [[note]]
 
 
 ## Getting started
