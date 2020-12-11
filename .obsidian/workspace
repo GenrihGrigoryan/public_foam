@@ -110,11 +110,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "lastOpenFiles": [
     "readme.md",
+    "test.md",
     "Untitled.md",
     "inbox.md",
     "foam-tips.md",
